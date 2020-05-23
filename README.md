@@ -1,2 +1,2 @@
-Gti beginners tutorial 
+Git beginners tutorial 
 this is a tutorial 
